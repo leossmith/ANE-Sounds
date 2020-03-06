@@ -103,6 +103,10 @@ else
 
 ### Changelog
 
+#### v1.8 (06/03/2019)
+
+* Added support for Android 64 bit
+
 #### v1.7 (06/09/2018)
 
 * Fixed issue with identical sound file names (Android)
